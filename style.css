@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: blue;
+    font-family: Arial,sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+header, footer {
+    margin-bottom: 30px;
+}
+a {
+    color: cadetblue;
+    text-decoration: none;
+}
